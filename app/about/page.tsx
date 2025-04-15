@@ -112,6 +112,7 @@ export default function AboutPage() {
               <div className="flex flex-col md:flex-row md:justify-between items-center">
                 <div>
                   <p>piperjulespill@gmail.com</p>
+                  <p className="text-sm text-gray-500 mt-1">© 2025 Candy Pill & Piper Jules</p>
                 </div>
                 <div className="flex space-x-4 mt-4 md:mt-0">
                   <a href="https://spotify.com" className="hover:underline" target="_blank" rel="noopener noreferrer">
