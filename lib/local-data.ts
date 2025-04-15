@@ -71,17 +71,17 @@ export const cybergirlArtworks: Artwork[] = [
 export const transversiveMediaArtworks: Artwork[] = [
   {
     id: "tm-01",
-    title: "Transversive Media 01",
+    title: "Digital Alchemy 01",
     slug: "transversive-media-01",
     description: "Textile print with halftone effect showing hands against a red background with screen-like border.",
     media: {
       id: "tm-media-01",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_01-Art7dNc8RrvsAQS5jeaMkVe1Vkp67S.png",
       type: "image",
-      alt: "Transversive Media 01",
+      alt: "Digital Alchemy 01",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "24 × 18 inches",
@@ -91,17 +91,17 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-02",
-    title: "Transversive Media 02",
+    title: "Digital Alchemy 02",
     slug: "transversive-media-02",
     description: "Textile print showing close-up of hands with food items and packaging.",
     media: {
       id: "tm-media-02",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_02-BpuEucL2hdpXprMgnxbiVVAL7b3hgi.png",
       type: "image",
-      alt: "Transversive Media 02",
+      alt: "Digital Alchemy 02",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "18 × 12 inches",
@@ -111,17 +111,17 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-03",
-    title: "Transversive Media 03",
+    title: "Digital Alchemy 03",
     slug: "transversive-media-03",
     description: "Textile print showing hands with tarot cards and keys against a red background.",
     media: {
       id: "tm-media-03",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_03-itixc1055cFRCznqDNqesnyemRMJLz.png",
       type: "image",
-      alt: "Transversive Media 03",
+      alt: "Digital Alchemy 03",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "20 × 16 inches",
@@ -131,17 +131,17 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-04",
-    title: "Transversive Media 04",
+    title: "Digital Alchemy 04",
     slug: "transversive-media-04",
     description: "Textile print showing a close-up portrait with dice and snake elements.",
     media: {
       id: "tm-media-04",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_04-w0Y9Mca4xJ1kGi33nkaUEQefPT3aBi.png",
       type: "image",
-      alt: "Transversive Media 04",
+      alt: "Digital Alchemy 04",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "24 × 12 inches",
@@ -151,17 +151,17 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-05",
-    title: "Transversive Media 05",
+    title: "Digital Alchemy 05",
     slug: "transversive-media-05",
     description: "Textile print with abstract body forms in soft pink and white tones.",
     media: {
       id: "tm-media-05",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_05-zvOyYye5JuRAJfsSdlapMfTgifT02s.png",
       type: "image",
-      alt: "Transversive Media 05",
+      alt: "Digital Alchemy 05",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "18 × 18 inches",
@@ -171,17 +171,17 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-06",
-    title: "Transversive Media 06",
+    title: "Digital Alchemy 06",
     slug: "transversive-media-06",
     description: "Textile print showing a figure with red hair in blue clothing overlaid with green plant elements.",
     media: {
       id: "tm-media-06",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_06-tQ562maU2LYxgS9YPven1QIBpOzU46.png",
       type: "image",
-      alt: "Transversive Media 06",
+      alt: "Digital Alchemy 06",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "24 × 14 inches",
@@ -191,17 +191,17 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-07",
-    title: "Transversive Media 07",
+    title: "Digital Alchemy 07",
     slug: "transversive-media-07",
     description: "Vertical textile print showing a distorted landscape with reddish figures.",
     media: {
       id: "tm-media-07",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_07-zpPGGDiiBNaJkpt0wqxytlic8LUmRR.png",
       type: "image",
-      alt: "Transversive Media 07",
+      alt: "Digital Alchemy 07",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric",
       Dimensions: "36 × 12 inches",
@@ -211,7 +211,7 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-08",
-    title: "Transversive Media 08",
+    title: "Digital Alchemy 08",
     slug: "transversive-media-08",
     description:
       "Mesh fabric installation capturing various objects including a yellow tarot card and art supplies, creating layers of transparency and meaning.",
@@ -219,10 +219,10 @@ export const transversiveMediaArtworks: Artwork[] = [
       id: "tm-media-08",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_26-127ivYJvc5uZYIuHFE4l2ejROkKKgR.png",
       type: "image",
-      alt: "Transversive Media 08",
+      alt: "Digital Alchemy 08",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Mixed media on mesh fabric",
       Dimensions: "24 × 18 inches",
@@ -232,7 +232,7 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-09",
-    title: "Transversive Media 09",
+    title: "Digital Alchemy 09",
     slug: "transversive-media-09",
     description:
       "Textile print with collaged text elements and red tones, featuring handwritten notes and printed fragments creating a layered narrative.",
@@ -240,10 +240,10 @@ export const transversiveMediaArtworks: Artwork[] = [
       id: "tm-media-09",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_28-yUqETGtBop1gd87ydsAbJt98oigly4.png",
       type: "image",
-      alt: "Transversive Media 09",
+      alt: "Digital Alchemy 09",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on fabric with mixed media",
       Dimensions: "18 × 12 inches",
@@ -253,7 +253,7 @@ export const transversiveMediaArtworks: Artwork[] = [
   },
   {
     id: "tm-10",
-    title: "Transversive Media 10",
+    title: "Digital Alchemy 10",
     slug: "transversive-media-10",
     description:
       "Photographic transfer on wood panel featuring dual portraits with bokeh light effects, exploring identity and memory.",
@@ -261,10 +261,10 @@ export const transversiveMediaArtworks: Artwork[] = [
       id: "tm-media-10",
       url: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/transversivemedia_27-pkTteNiZ2uF2C6vZneEzLfFgxT7HWw.png",
       type: "image",
-      alt: "Transversive Media 10",
+      alt: "Digital Alchemy 10",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Photographic transfer on wood",
       Dimensions: "16 × 20 inches",
@@ -285,7 +285,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Pharmaceutical Meditation",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Mixed media with pharmaceutical elements on panel",
       Dimensions: "18 × 18 inches",
@@ -306,7 +306,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Fragmented Memory",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Mixed media collage on wood panel",
       Dimensions: "20 × 20 inches",
@@ -327,7 +327,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Digital Artifact",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital transfer on wood panel",
       Dimensions: "18 × 18 inches",
@@ -348,7 +348,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Translucent Archive",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital transfer on translucent fabric",
       Dimensions: "36 × 12 inches",
@@ -369,7 +369,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Ethereal Currents",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Mixed media on translucent fabric",
       Dimensions: "24 × 18 inches",
@@ -390,7 +390,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Memory Fragments",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Photographic transfer on mesh fabric",
       Dimensions: "30 × 24 × 12 inches",
@@ -411,7 +411,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Mountain Portal",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Photographic print on translucent fabric",
       Dimensions: "48 × 24 inches",
@@ -432,7 +432,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Embodied Memory",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on silk organza",
       Dimensions: "36 × 24 inches",
@@ -453,7 +453,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Tactile Interface",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Photographic print on mesh fabric",
       Dimensions: "24 × 24 inches",
@@ -474,7 +474,7 @@ export const transversiveMediaArtworks: Artwork[] = [
       alt: "Signal Fragments",
     },
     year: "2023",
-    category: "Transversive Media",
+    category: "Digital Alchemy",
     details: {
       Medium: "Digital print on satin fabric",
       Dimensions: "30 × 30 inches",
@@ -1103,13 +1103,12 @@ export const allArtworks: Artwork[] = [
   ...filmArtworks,
 ]
 
-// Define categories
 export const categories = [
   { id: "1", name: "Cybergirl", slug: "cybergirl" },
   { id: "2", name: "Characters", slug: "characters" },
   { id: "3", name: "Play on Space", slug: "play-on-space" },
   { id: "4", name: "Portals", slug: "portals" },
-  { id: "5", name: "Transversive Media", slug: "transversive-media" },
+  { id: "5", name: "Digital Alchemy", slug: "digital-alchemy" },
   { id: "6", name: "Film", slug: "film" },
   { id: "7", name: "Painting", slug: "painting" },
 ]
