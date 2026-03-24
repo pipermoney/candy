@@ -1,7 +1,7 @@
 "use client"
 
 // Define the categories as specified
-const categories = ["Cybergirl", "Characters", "Play on Space", "Portals", "Digital Alchemy", "Film", "Painting"]
+const categories = ["Film", "Cybergirl", "Characters", "Play on Space", "Portals", "Digital Alchemy", "Painting"]
 
 interface CategoryFilterProps {
   selectedCategories: string[]
